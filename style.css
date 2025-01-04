@@ -1,0 +1,50 @@
+* {
+    background-color: rgba(0, 0, 0, 0.1);
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+/* h1{
+    color: blue !important;
+} */
+/* p{
+    background-color: tomato;
+}
+h2{
+    color: white !important;
+}
+body{
+   background-color: green;
+} */
+.heading1 {
+    color: brown;
+    background-color: black;
+}
+
+h1 {
+    background-color: white;
+}
+
+#heading4 {
+    color: red;
+}
+
+p>span {
+    color: blue;
+}
+
+.home {
+    color: green;
+}
+
+.nav>ul>li>a {
+    color: red;
+}
+
+.para {
+    color: chocolate;
+}
+
+b {
+    color: inherit;
+}
